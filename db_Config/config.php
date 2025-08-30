@@ -2,7 +2,7 @@
 
 $Server = "localhost";
 $Username = "root";
-$Password = "";
+$Password = "123";
 $Database = "PharmacyX_DB";
 
 //connection with Database
